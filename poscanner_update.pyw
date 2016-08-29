@@ -16,7 +16,7 @@ from telepot.exception import TooManyRequestsError
 from copy import deepcopy
 from telegram import Emoji
 
-bot = telepot.Bot('247649707:AAFmQTqq_nXIajuySRETIU0jknfNWICPBv4')
+bot = telepot.Bot('247649707:zzzz')
 config = None
 global res_stat_7,enl_stat_7,res_stat_8,enl_stat_8
 res_stat_7 = 0
